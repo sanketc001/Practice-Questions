@@ -19,7 +19,7 @@ func main() {
 		}
 		if(temp==k){
 			c=0
-			fmt.Println("Pair whose sum is ",k,":=",s)
+			fmt.Println("Pair whose sum is",k,":=",s)
 	}
 }
 if(c==-1){
